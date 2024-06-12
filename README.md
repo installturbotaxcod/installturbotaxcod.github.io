@@ -79,10 +79,10 @@ Follow the on-screen instructions to start entering your tax information.
 
 ### Additional Tips:
 
-### System Requirements: Ensure your computer meets the system requirements for TurboTax.
+#### System Requirements: Ensure your computer meets the system requirements for TurboTax.
 
-### Updates: After installation, check for any available updates to ensure you have the latest version of the software.
+#### Updates: After installation, check for any available updates to ensure you have the latest version of the software.
 
-### Support: If you encounter any issues during installation, you can visit the TurboTax support page for troubleshooting tips or contact customer service.
+#### Support: If you encounter any issues during installation, you can visit the TurboTax support page for troubleshooting tips or contact customer service.
 
 By following these steps, you should be able to successfully install and start using TurboTax on your computer or online.
