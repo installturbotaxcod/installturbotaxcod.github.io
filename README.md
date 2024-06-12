@@ -2,7 +2,7 @@
 
 To install TurboTax on your computer, follow these steps:
 
-#For Windows:
+# For Windows:
 
 #Purchase TurboTax:
 
